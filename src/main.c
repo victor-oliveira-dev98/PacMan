@@ -1,5 +1,5 @@
 #include "SOIL.h"
-#include <windows.h>
+#include <windows.h> 
 #include <gl/gl.h>
 #include <stdio.h>
 #include <time.h>
